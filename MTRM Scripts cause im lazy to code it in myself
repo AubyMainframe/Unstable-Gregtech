@@ -1,0 +1,1 @@
+recipes.removeShaped(<minecraft:crafting_table>, [[<minecraft:planks>, <minecraft:planks>], [<minecraft:planks>, <minecraft:planks>]]);
