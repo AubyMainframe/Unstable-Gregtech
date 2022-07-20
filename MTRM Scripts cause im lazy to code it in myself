@@ -1,1 +1,3 @@
-recipes.removeShaped(<minecraft:crafting_table>, [[<minecraft:planks>, <minecraft:planks>], [<minecraft:planks>, <minecraft:planks>]]);
+recipes.removeShaped(<gregtech:meta_tool_head_pickaxe:2049>, [[<minecraft:flint>, <minecraft:flint>, <gregtech:meta_tool:6>], [<minecraft:flint>, null, null], [<gregtech:meta_tool:9>, null, null]]);
+recipes.removeShaped(<gregtech:meta_tool_head_pickaxe:2049>, [[<ore:materialStoneTool>, <ore:materialStoneTool>, <ore:materialStoneTool>], [<ore:craftingToolFile>, null, <gregtech:meta_tool:6>]]);
+recipes.removeShaped(<minecraft:crafting_table>, [[<ore:plankWood>, <ore:plankWood>], [<ore:plankWood>, <ore:plankWood>]]);
