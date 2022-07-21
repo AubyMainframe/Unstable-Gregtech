@@ -1,5 +1,3 @@
-## Nothing Here for now, Only put Code here If I am sure of the Changes I wanna make ##
-
 #loader contenttweaker
 
 import mods.contenttweaker.Color;
@@ -7,3 +5,18 @@ import mods.contenttweaker.VanillaFactory;
 
 var mariMainframe = VanillaFactory.createItem("marimainframe");
 mariMainframe.register();
+
+var aubyinium_ingot = VanillaFactory.createItem("aubyinium_ingot");
+aubyinium_ingot.register();
+
+var threefoldium_ingot = VanillaFactory.createItem("threefoldium_ingot");
+threefoldium_ingot.register();
+
+var PrimalMana_Ingot = VanillaFactory.createItem("PrimalMana_Ingot");
+PrimalMana_Ingot.register();
+
+var SinfulIngot = VanillaFactory.createItem("SinfulIngot");
+SinfulIngot.register();
+
+var CosmicCloth = VanillaFactory.createItem("CosmicCloth");
+CosmicCloth.register();
